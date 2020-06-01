@@ -1,26 +1,26 @@
 # depslib dependency file v1.0
-1591048210 source:c:\users\remi\documents\it preparation\c++\project_euler_18\main.cpp
+1591048210 project_euler_18\main.cpp
 	<iostream>
 	<string>
 	<vector>
 	<sstream>
 	<Triangle.h>
 
-1591049131 c:\users\remi\documents\it preparation\c++\project_euler_18\include\triangle.h
+1591049131 project_euler_18\include\triangle.h
 	<iostream>
 	<string>
 	<vector>
 	<sstream>
 	"Utility.h"
 
-1591049159 c:\users\remi\documents\it preparation\c++\project_euler_18\include\utility.h
+1591049159 project_euler_18\include\utility.h
 	<string>
 	<vector>
 	<sstream>
 
-1591049131 source:c:\users\remi\documents\it preparation\c++\project_euler_18\src\triangle.cpp
+1591049131 project_euler_18\src\triangle.cpp
 	"Triangle.h"
 
-1591049054 source:c:\users\remi\documents\it preparation\c++\project_euler_18\src\utility.cpp
+1591049054 project_euler_18\src\utility.cpp
 	"Utility.h"
 
